@@ -179,7 +179,6 @@ export default class animatecrash extends Component {
         </Text>
         <TouchableOpacity onPress={this.onPress}>
           <Surface
-            style={{ backgroundColor: 'transparent' }}
             height={CONTAINER_WIDTH}
             width={CONTAINER_WIDTH}
           >
